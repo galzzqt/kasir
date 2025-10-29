@@ -1,4 +1,4 @@
-# Sistem Kasir - Halobis
+# Sistem Kasir - Zocco
 
 Aplikasi sistem kasir modern yang dibangun dengan React dan Tailwind CSS, dirancang untuk kemudahan penggunaan dan efisiensi operasional.
 
